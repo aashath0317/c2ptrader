@@ -10,7 +10,7 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: 251d3c03-19d0-4783-b9bc-5edbbdce8844
-          heroku_app_name: c2ptrader
+          heroku_app_name: c2ptrader-1
           heroku_email: electriccyan32@ctopicsbh.com
           usedocker: true
           docker_heroku_process_type: worker
