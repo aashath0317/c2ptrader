@@ -1,4 +1,4 @@
-wget https://codeload.github.com/aashath0317/c2ptrader/zip/refs/heads/main
+wget https://codeload.github.com/aashath0317/trading_test/zip/refs/heads/main
 unzip main
-mv c2ptrader-main/* /usr/src/app/
+mv trading_test/* /usr/src/app/
 python3 main.py
